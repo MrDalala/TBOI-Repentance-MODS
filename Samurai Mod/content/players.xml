@@ -1,0 +1,9 @@
+<players root="gfx/characters/costumes/" 
+         portraitroot="gfx/ui/stage/" 
+         nameimageroot="gfx/ui/boss/">
+        <player name="The Samurai" skin="character_samurai.png" armor="6" bombs="1" keys="1"
+          nameimage="playername_samurai.png" 
+          portrait="portrait_samurai.png" 
+          bigportrait="portrait_samurai.png" skinColor="0" costumeSuffix="samurai"
+		  birthright="I am and will always be a SAMURAI!" />
+          </players>

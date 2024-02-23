@@ -1,0 +1,3 @@
+<costumes anm2root="/gfx/characters/">
+    <costume anm2root="The_Samurai_head.anm2" type="none" priority="100"/>
+</costumes>

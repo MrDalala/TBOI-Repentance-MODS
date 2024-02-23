@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <active id="1" name="Samurai Sword" gfx="samurai_sword_item.png" description="The ethereal echoes of ancient battles whisper around you" quality="4" maxcharges="1"/>
+</items>

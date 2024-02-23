@@ -1,0 +1,5 @@
+<sounds root="sfx/">
+    <sound name="Sword Block">
+        <sample weight="1" path="SwordBlock.wav" />
+    </sound>
+</sounds>
